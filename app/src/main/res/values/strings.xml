@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_data">Error loading data</string>
+    <!--String for categories -->
+    <string name="news">News</string>
+    <string name="business">Business</string>
+    <string name="politics">Politics</string>
+    <string name="science">Science</string>
+    <string name="sports">Sports</string>
+    <string name="arts">Arts</string>
+    <string name="similar_articles">Similar Articles</string>
+    <string name="comments">Comments</string>
+    <string name="search_articles">SEARCH ARTICLES</string>
+    <string name="search_results">SEARCH RESULTS</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">RETRY</string>
+
+    <!-- String array for tab bar-->
+    <string-array name="home_page_titles">
+        <item>ARTICLES</item>
+        <item>CATEGORIES</item>
+        <item>SETTINGS</item>
+    </string-array>
+
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="android_news_reader">Android News\nReader</string>
+</resources>

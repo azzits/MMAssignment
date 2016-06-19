@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <ImageView
+        android:paddingBottom="1dp"
+        android:id="@+id/imgArticleThumb"
+        android:layout_width="@dimen/article_thumb_width"
+        android:layout_height="@dimen/article_thumb_width"
+        />
+
+    <TextView
+        android:layout_margin="@dimen/field_padding_normal"
+        android:id="@+id/txtArticleTitle"
+        style="@style/ArticleItemTitleTextStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/imgArticleThumb"
+        android:ellipsize="end"
+        android:maxLines="2" />
+
+    <TextView
+        style="@style/ArticleItemTitleTextStyle"
+        android:textSize="@dimen/txtsize_small"
+        android:id="@+id/txtArticleTimeStamp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_alignBottom="@+id/imgArticleThumb"
+        android:layout_alignLeft="@id/txtArticleTitle" />
+    <View
+        android:id="@+id/itemDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorListDivider"
+        android:layout_alignParentBottom="true"/>
+</RelativeLayout>

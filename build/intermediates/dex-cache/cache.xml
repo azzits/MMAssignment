@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3912e951a718184a9e0b5946e70597e3ee53e9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_53701bcb2f033e223696b53251aebae06b5b20c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_53701bcb2f033e223696b53251aebae06b5b20c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\okhttp-3.2.0_17b2d183c6a1a2637fc3f292475471a09d41035c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_17b2d183c6a1a2637fc3f292475471a09d41035c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\gson-2.6.2_eb8be902e152f02d8adbe47095c6f0cf33070c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha1_594ff2d3341ed7c645e722e845bcf0306e029693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_3912e951a718184a9e0b5946e70597e3ee53e9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\gson-2.6.2_eb8be902e152f02d8adbe47095c6f0cf33070c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d001127fa9c1f46e4a20271da848f17f2948b738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha1\constraint-layout-solver-1.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78d61c347aa5002119e3c17bffcbebf28fe07b0b">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.0-alpha1_594ff2d3341ed7c645e722e845bcf0306e029693.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_a26887c8d9590709bfaa3e2a7eae3a899166a472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a26887c8d9590709bfaa3e2a7eae3a899166a472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_c0c6be010b92230d760252bf65c945dbad636849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.5_196c459b48f1f3ed0ac49700748b30ac4ecf2977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_2353d165a66ba5ef8bc42414e6a2e364be17da7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_c0c6be010b92230d760252bf65c945dbad636849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha1_9d2e4de475bc9c5682b9ffcfcb1b49174ae4b468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_ac3c9971807c4fec667faa35e613055943e4ac7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_2353d165a66ba5ef8bc42414e6a2e364be17da7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_196c459b48f1f3ed0ac49700748b30ac4ecf2977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support.constraint-constraint-layout-1.0.0-alpha1_9d2e4de475bc9c5682b9ffcfcb1b49174ae4b468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ac3c9971807c4fec667faa35e613055943e4ac7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.miguelcatalan-materialsearchview-1.4.0_f072c80e1e6e40ba1dc31f2f5f664738b3ca190b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.miguelcatalan\materialsearchview\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="918e3e9514d90e54421b674cf0c95044f4e155ad">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.miguelcatalan-materialsearchview-1.4.0_f072c80e1e6e40ba1dc31f2f5f664738b3ca190b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_d001127fa9c1f46e4a20271da848f17f2948b738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_b210ac200cd9fec6384767a95a038211ececd431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\okio-1.6.0_378a4d00de111ab28d6732f501f7776d0d0226ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.2_b0f2481533892f2a4bad3708a12bd0e8179a8d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\okio-1.6.0_378a4d00de111ab28d6732f501f7776d0d0226ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\converter-gson-2.0.2_b0f2481533892f2a4bad3708a12bd0e8179a8d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\retrofit-2.0.2_81873c805bf99e9590c0aa8464c69335ca85c5a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Projects\MMAssignment\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_b210ac200cd9fec6384767a95a038211ececd431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ajit\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="E:\Android\Projects\MMAssignment\app\build\intermediates\pre-dexed\debug\retrofit-2.0.2_81873c805bf99e9590c0aa8464c69335ca85c5a3.jar" />
+    </item>
+
+</items>

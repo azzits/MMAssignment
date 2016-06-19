@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#EAF0F5</color>
+    <color name="colorPrimaryDark">#5C7596</color>
+    <color name="colorAccent">#2E96EF</color>
+    <color name="colorTabTextNormal">#AEBCCD</color>
+    <color name="colorArticleTitle">#63727E</color>
+    <color name="colorListDivider">#E3ECE9</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
