@@ -1,14 +1,13 @@
 package android.com.mmassignment.activity;
 
 import android.com.mmassignment.R;
-import android.com.mmassignment.helper.GeneralUtils;
-import android.com.mmassignment.helper.ImageLoaderOptions;
-import android.com.mmassignment.helper.MConstants;
+import android.com.mmassignment.util.GeneralUtils;
+import android.com.mmassignment.util.ImageLoaderOptions;
+import android.com.mmassignment.util.MConstants;
 import android.com.mmassignment.model.Article;
 import android.com.mmassignment.model.Comment;
 import android.com.mmassignment.model.Multimedia;
 import android.os.Bundle;
-import android.os.PersistableBundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.AppCompatActivity;

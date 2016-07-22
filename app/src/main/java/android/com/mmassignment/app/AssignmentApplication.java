@@ -13,10 +13,13 @@ import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
 
 public class AssignmentApplication extends Application {
 
+    private static AssignmentApplication mApplication;
+
     @Override
     public void onCreate() {
         super.onCreate();
         initImageLoader();
+        mApplication = this;
     }
 
     private void initImageLoader() {
@@ -28,5 +31,9 @@ public class AssignmentApplication extends Application {
         config.diskCacheSize(25 * 1024 * 1024);
         config.tasksProcessingOrder(QueueProcessingType.LIFO);
         ImageLoader.getInstance().init(config.build());
+    }
+
+    public static Application getApplication(){
+        return mApplication;
     }
 }

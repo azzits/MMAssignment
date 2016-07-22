@@ -1,9 +1,8 @@
 package android.com.mmassignment.activity;
 
 import android.com.mmassignment.R;
-import android.com.mmassignment.fragment.ArticleFragment;
-import android.os.Build;
-import android.support.v4.app.Fragment;
+import android.com.mmassignment.home.articles.ArticleFragment;
+import android.com.mmassignment.home.articles.ArticlePresenter;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -30,6 +29,7 @@ public class SearchResultActivity extends AppCompatActivity {
         fragment.setArguments(bundle);
         transaction.replace(R.id.layout_content, fragment);
 //        transaction.addToBackStack(null);
+        ArticlePresenter presenter = new ArticlePresenter(fragment);
         transaction.commit();
     }
 
